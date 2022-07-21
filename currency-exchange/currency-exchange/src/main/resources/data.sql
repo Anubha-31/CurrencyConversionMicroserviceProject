@@ -1,0 +1,5 @@
+	insert into currency_exchange (conversion_multiple, environment, from_currency, to_currency, id) values (65, '', 'USD', 'INR', 1)
+insert into currency_exchange (conversion_multiple, environment, from_currency, to_currency, id) values (75, '', 'CAD', 'INR', 2)
+insert into currency_exchange (conversion_multiple, environment, from_currency, to_currency, id) values (80, '', 'EURO', 'INR', 3)
+insert into currency_exchange (conversion_multiple, environment, from_currency, to_currency, id) values (95, '', 'AUD', 'INR', 4)
+insert into currency_exchange (conversion_multiple, environment, from_currency, to_currency, id) values (50, '', 'SEC', 'INR', 5)
