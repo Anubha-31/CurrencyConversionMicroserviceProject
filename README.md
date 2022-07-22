@@ -1,2 +1,2 @@
 # CurrencyConversionMicroserviceProject
-Currency Conversion project created using Microservices, Spring Cloud, Eureka Server
+Currency Conversion project created using Microservices, Spring Cloud, Eureka Server, Feign Client
