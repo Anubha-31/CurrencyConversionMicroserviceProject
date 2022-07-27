@@ -53,7 +53,7 @@ public class CurrencyConversionService {
 				from(from_currency).
 				to(to_currency).
 				conversionMultiple(responseBean.getConversionMultiple()).
-				environment(env.getProperty("local.server.port")).
+				environment(responseBean.getEnvironment()).
 				build();
 	}
 	
